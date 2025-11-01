@@ -35,7 +35,7 @@ A Python program that processes student grades from a CSV file, calculates avera
 
 - CSV report contains each student, their scores, average, status, and a column showing the best student.
 - The last row displays the average for each subject:
-- 
+
 Name,Math,Science,English,Average,Status,BestStudent
 Alice,89,95,91,91.67,Pass,
 Bob,65,72,60,65.67,Pass,
